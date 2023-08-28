@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Slice Of Homer Simpson\Slice Of Homer Simpson\bin\Release\Slice Of Homer Simpson.exe.config
+C:\Users\Admin\source\repos\Slice Of Homer Simpson\Slice Of Homer Simpson\bin\Release\Slice Of Homer Simpson.exe
+C:\Users\Admin\source\repos\Slice Of Homer Simpson\Slice Of Homer Simpson\bin\Release\Slice Of Homer Simpson.pdb
+C:\Users\Admin\source\repos\Slice Of Homer Simpson\Slice Of Homer Simpson\bin\Release\RobloxFileFormat.dll
+C:\Users\Admin\source\repos\Slice Of Homer Simpson\Slice Of Homer Simpson\bin\Release\RobloxFileFormat.pdb
+C:\Users\Admin\source\repos\Slice Of Homer Simpson\Slice Of Homer Simpson\obj\Release\Slice Of Homer Simpson.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Slice Of Homer Simpson\Slice Of Homer Simpson\obj\Release\Slice Of Homer Simpson.csproj.CopyComplete
+C:\Users\Admin\source\repos\Slice Of Homer Simpson\Slice Of Homer Simpson\obj\Release\Slice Of Homer Simpson.exe
+C:\Users\Admin\source\repos\Slice Of Homer Simpson\Slice Of Homer Simpson\obj\Release\Slice Of Homer Simpson.pdb
