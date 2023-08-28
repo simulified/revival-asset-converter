@@ -11,8 +11,8 @@ namespace a_slice_of_homer_simpson
             Console.WriteLine("made by simul");
             if (args.Length < 2)
             {
-                Console.WriteLine("Please open this folder in Command Prompt and run the following: \"convert.exe\" RBXMNAME REVIVALDOMAIN");
-                Console.WriteLine("Here's an example: \"convert.exe\" thishat.rbxm kapish.fun");
+                Console.WriteLine("Please open this folder in Command Prompt and run the following: \"exename.exe\" RBXMNAME REVIVALDOMAIN");
+                Console.WriteLine("Here's an example: \"exename.exe\" thishat.rbxm kapish.fun");
 
                 Console.ReadLine();
             } else
